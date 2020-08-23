@@ -3,7 +3,7 @@
 ## Feature
 
 Module defines the physics behind the game
-Module defines behaviour of the ball
+Module defines Behavior of the ball
 
 ## Acceptance Criteria
 
