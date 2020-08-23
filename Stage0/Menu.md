@@ -34,3 +34,12 @@ can do 3 things:
   When user wants to start the game
 
   Then system redirects game to the initialization module
+
+### Scenario: User wants to exit
+
+Given that the game is supported by the computer on which the is running on
+and the game has been installed on the computer and is running currently
+
+When user clicks on exit
+
+then game closes

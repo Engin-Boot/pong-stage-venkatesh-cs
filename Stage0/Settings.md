@@ -21,3 +21,13 @@ Given user is in the display settings screen
   When user changes the background color
 
   Then module updates the background in memory and updates background in the screen
+
+### Scenario: User wants to change number of players
+
+  Given user is in the players settings screen
+
+  When user changes the number of players (Either 1 or 2)
+
+  Then module updates the number of players in memory
+  which is later accessed by the initializatio module
+  
