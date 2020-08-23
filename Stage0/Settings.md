@@ -29,5 +29,5 @@ Given user is in the display settings screen
   When user changes the number of players (Either 1 or 2)
 
   Then module updates the number of players in memory
-  which is later accessed by the initializatio module
+  which is later accessed by the initialization module
   

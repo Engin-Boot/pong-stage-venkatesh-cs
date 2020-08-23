@@ -8,7 +8,7 @@ Module keeps score for the duration of the game
 
 ### Scenario change in score
 
-  Given that the game launched sucessfully
+  Given that the game launched successfully
   user/users is/are playing the game
   and the physics module informs the score module
   when a player/computer scores
@@ -19,7 +19,7 @@ Module keeps score for the duration of the game
 
 ### Scenario: Win
 
-  Given that the game launched sucessfully
+  Given that the game launched successfully
   user/users is/are playing the game
   and the physics module informs the score module
 

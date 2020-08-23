@@ -9,7 +9,7 @@ Module defines behaviour of the ball
 
 ### Scenario Change in direction of ball
 
-  Given that the game launched sucessfully
+  Given that the game launched successfully
   user/users is/are playing the game
 
   When the ball hits the upper and lower parts of the rectangle
@@ -20,7 +20,7 @@ Module defines behaviour of the ball
 
 ### Scenario when user/computer miss the ball
 
-  Given that the game launched sucessfully
+  Given that the game launched successfully
   user/users is/are playing the game
 
   When user/computer miss the ball
